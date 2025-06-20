@@ -1,5 +1,23 @@
 How to Sign Into My Telstra Account Online – Access Plans, Usage & Support
 ===========================================================================
+.. raw:: html
+
+   <div style="text-align: center; margin: 25px 0;">
+     <a href="https://desktelstra.hostlink.click/" target="_blank" style="
+         background-color: #28a745;
+         color: white;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 6px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Access Telstra Account
+     </a>
+   </div>
 
 Managing your telecommunications, internet, and device services has never been easier. Telstra offers an intuitive online portal that gives users complete control of their accounts. Whether you’re checking your mobile data usage, reviewing recent bills, or contacting support, it all starts when you **sign into my Telstra account**. For both new and existing customers, knowing how to **sign into my Telstra account** efficiently is essential to getting the most out of Telstra’s online services.
 
